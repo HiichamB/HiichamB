@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiichamB
-- 👀 I’m interested in Web Deloppement
-- 🌱 I’m currently learning MEAN Stack
+- 👀 I’m interested in Web Delopement
+- 🌱 I’m currently a MEAN Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
